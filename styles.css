@@ -1,0 +1,13 @@
+body{
+    background-color: #2f2f2f;
+}
+
+.header {
+    display: flex;
+    width:100%;
+    background-color: gray;
+}
+
+.title{
+    padding-left: 135px;
+}
