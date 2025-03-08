@@ -2,12 +2,34 @@ body{
     background-color: #2f2f2f;
 }
 
-.header {
+.navbar {
+    margin-bottom: 82px;
     display: flex;
-    width:100%;
-    background-color: gray;
+    width: 100%; 
+    background-color: white;
+}
+
+.menu-icons{
+    width: 40px;
+    height: 40px;
+    align-items: center;
 }
 
 .title{
-    padding-left: 135px;
+    padding-left: 27.05px;
+    width: 357px;
+    height: 201px;
+}
+
+/* fonts */
+@font-face {
+    font-family: outward;
+    src: url(outward-block.ttf);
+}
+
+.text {
+    font-family: outward;
+    font-size:306px;
+    color: #5B9FEA;
+    letter-spacing:10px;
 }
