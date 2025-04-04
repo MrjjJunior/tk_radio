@@ -15,6 +15,19 @@ body{
     align-items: center;
 }
 
+.home-icon{
+    
+}
+
+.header {
+    display: flex;
+}
+
+.p1 {
+    font-size: 50;
+    color: white;
+}
+
 .title{
     padding-left: 27.05px;
     width: 357px;
